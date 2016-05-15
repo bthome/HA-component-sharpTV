@@ -43,6 +43,6 @@ MIT
 
 ## Acknowledgments
 
-* jmoore987 - [jmoore987/sharp_qquos_rc](https://github.com/jmoore987/sharp_aquos_rc).  Foundation for sharptv.py integration.
+* jmoore987 - [jmoore987/sharp_aquos_rc](https://github.com/jmoore987/sharp_aquos_rc).  Foundation for sharptv.py integration.
 * Based off existing component - [samsungtv](https://home-assistant.io/components/media_player.samsungtv/)
 
