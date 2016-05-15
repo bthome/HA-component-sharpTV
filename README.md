@@ -3,25 +3,20 @@ Home Assistant media player component for use with Sharp TV's.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisities
 
 What things you need to install the software and how to install them
 
-```
 [Home Assistant](https://github.com/home-assistant/home-assistant)
-```
 
 ### Installing
 
-The component is implemented as a "custom_component" until it is natively integrated with Home Assistant
+The component is implemented as a "custom_component" until it is natively integrated with Home Assistant.
 
 To install...
 
 ```
-copy "sharpTV.py" to [PATH TO HOME ASSISTANT]/config/custom_components/media_player
-
+copy "sharptv.py" to [PATH TO HOME ASSISTANT]/config/custom_components/media_player/
 ```
 
 ## Running the component
@@ -48,6 +43,6 @@ MIT
 
 ## Acknowledgments
 
-* jmoore987 - [jmoore987](https://github.com/jmoore987/sharp_aquos_rc).  Sharp integration made this possible.
+* jmoore987 - [jmoore987/sharp_qquos_rc](https://github.com/jmoore987/sharp_aquos_rc).  Foundation for sharptv.py integration.
 * Based off existing component - [samsungtv](https://home-assistant.io/components/media_player.samsungtv/)
 
